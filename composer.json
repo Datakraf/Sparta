@@ -2,6 +2,7 @@
     "name": "datakraf/sparta-module",
     "type":"laravel-module",
     "description": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "UzzairBaharudin",
