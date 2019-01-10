@@ -1,0 +1,14 @@
+{
+    "name": "Sparta",
+    "alias": "sparta",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Sparta\\Providers\\SpartaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
